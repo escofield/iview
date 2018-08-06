@@ -11,7 +11,8 @@
         "component",
         "components",
         "ui",
-        "framework"
+        "framework",
+        "fluid typography"
     ],
     "main": "dist/iview.js",
     "files": [
